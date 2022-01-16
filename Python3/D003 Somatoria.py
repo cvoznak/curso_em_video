@@ -1,0 +1,5 @@
+print("digite o primeiro número")
+n1=float(input())
+print("digite o segundo número")
+n2=float(input())
+print("O valor da somatória é",n1+n2)
